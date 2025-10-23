@@ -1,0 +1,17 @@
+# Залежності
+node_modules/
+package-lock.json
+
+# Секрети
+.env
+
+# Збірки
+dist/
+build/
+
+# Логі
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
